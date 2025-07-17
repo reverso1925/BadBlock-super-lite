@@ -2508,8 +2508,6 @@ aksb*.akamaihd.net.edgesuite.net^
 ||akstat.io.edgekey.net^
 ||albacross.com^
 ||alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com^
-||alb.reddit.com^
-||alb.reddit.com^$important
 ||alb-www-docodoco-jp-1408758584.ap-northeast-1.elb.amazonaws.com^
 ||alc.com^
 ||alchemer.com^
@@ -5721,7 +5719,6 @@ doubleclick-net.l.google.com
 ||dramaticdirection.com^
 ||dreamdata.cloud^
 ||dreamdata.io^
-||d.reddit.com^
 ||d-renopost.rtm.movetv.com^
 ||driftapi.com^
 ||drift.app.auth0.com^
@@ -6000,7 +5997,6 @@ elevenforum.com##.u-noJsOnly
 ||errors.stripe.com^
 ||errors.ubuntu.com^
 ||errortrace.dev^
-||error-tracking.reddit.com^
 ||es.cn-northwest-1.amazonaws.com.cn^
 ||esnlocco.com^
 ||es-odc.gw.samsungapps.com^
@@ -6104,8 +6100,6 @@ events*.amazonaws.$all
 ||events.nvidia.com^
 ||events.prd.api.discomax.com^
 ||events.prd.api.max.com^
-||events.reddit.com^
-||events.redditmedia.com^
 ||events.rm-api.com^
 ||events.sa-east-1.amazonaws.com^
 ||events.us-east-1.amazonaws.com^
@@ -11175,7 +11169,6 @@ pipes*.amazonaws.$all
 ||pixel.ad^
 /pixelbundle.js$script
 ||pixel.coccoc.com^
-||pixel-config.reddit.com^
 ||pixel.everesttech.net^$important
 ||pixel.facebook.com^
 /pixel.js
@@ -11693,11 +11686,6 @@ quicksight*.amazonaws.$all
 ||recplusapi.com^
 ||recplusapi.com.edgekey.net^
 ||redd7liod.com^
-||reddit.com/pixel
-reddit.com##.promoted-tag
-reddit.com###redesign-beta-optin-btn
-||reddit.com/static/pixel
-||redditmedia.com/gtm/jail
 ||redditstatic.com/about-this-ad
 ||redditstatic.com/ads/
 ||redditstatic.com/gtm-jail
@@ -14024,7 +14012,6 @@ voiceid*.amazonaws.$all
 ||vuukle.com^
 ||vwo.com^
 ||w3counter.com^
-||w3-reporting.reddit.com^
 ||w55c.net^
 ||waf360.com^
 ||wait8hurl.com^
