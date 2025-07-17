@@ -156,8 +156,6 @@
 ||aboardlevel.com^
 ||aboutads.info^
 ||aboutads.net^
-||abrahamjuliot.github.io^
-@@||abrahamjuliot.github.io^$domain=creepjs-api.web.app
 ||abruptroad.com^
 ||absentairport.com^
 ||abs-lod*.amazonaws.
@@ -3425,7 +3423,6 @@ appsflyersdk.edgekey.net
 ||arid5glop.com^
 ||a-ring-fallback.msedge.net^
 ||arivify.com^
-||arkenfox.github.io^
 /arkoselabs.js$script
 ||ar-odc.gw.samsungapps.com^
 ||ar-odc.samsungapps.com^
@@ -4285,7 +4282,6 @@ bugzilla.redhat.com###no-js-message
 ||butterburst.com^
 ||buttercms.com^
 ||buttonladybug.com^
-||buttons.github.io^
 ||bux1le001.com^
 ||buy-cat-services.com^
 ||buygoogle.biz^
@@ -4748,13 +4744,10 @@ codeguru-reviewer*.amazonaws.$all
 ||collector*.bravesoftware.com^
 ||collector.bsg.brave.com^
 ||collector.bsg.bravesoftware.com^
-||collector-cdn.github.com^
 ||collector-direct.xhamster.com^
 /collector/*/event
 ||collector.g2.com^
 collector.genius.com
-||collector.githubapp.com^
-||collector.github.com^
 ||collector-main.trafficmanager.net^
 ||collector-ops.twitter.com^
 ||collector.pabs.comcast.com^
@@ -5157,9 +5150,7 @@ crashlytics.$all
 ||creaturecabbage.com^
 ||creditbureaureports.com^
 ||creditinterlink.com^
-/creep.js$domain=~abrahamjuliot.github.io|~creepjs-api.web.app
 ||creepjs-api.web.app^
-@@||creepjs-api.web.app^$domain=abrahamjuliot.github.io
 ||crepo.ww.dl.playstation.net^
 ||crepo.ww.dl.playstation.net.edgekey.net^
 ||criminalbackgroundchecks.com^
@@ -5800,7 +5791,6 @@ dynamodb-kai*.amazonaws.$all
 ||dz-odc.samsungapps.com^
 ||eagerknight.com^
 ||earlywarning.com^
-||earthlng.github.io^
 ||earthview360.org^
 ||east2pony.com^
 ||easybackgroundchecks.com^
@@ -7457,7 +7447,6 @@ googlesuggest.$all
 ||guardianapis.com/auxia/get-treatment
 ||guardianapis.com/banner
 ||guardianapps.co.uk/geolocation
-||guardian.github.io^
 ||guce.advertising.com^$important
 ||guidecent.com^
 ||guiltlessbasketball.com^
@@ -10703,7 +10692,6 @@ nexus.dell.com.edgekey.net*.akadns.net
 ||open.convertkit-mail.com^$important
 ||opencorporates.com^
 ||opendealerexchange.com^
-||opengraph.githubassets.com^
 ||openinstall.io^
 ||openli.com^
 ||open.oneplus.net^
@@ -11576,7 +11564,6 @@ pulsar-pweb*.amazonaws.com
 ||qualified-production*.amazonaws.com^
 ||qualified-production.s3.us-east-1.amazonaws.com^
 ||qualityunit.com^
-||qualityunit.github.io^
 ||qualtrics.com^
 ||qualtrics.com^$important
 ||qualtrics.com.cdn.cloudflare.net^
@@ -13414,7 +13401,6 @@ theguardian.com##+js(cookie-remover, usnatUUID)
 ||ticklesign.com^
 ||tidio.co^
 ||tidio.com^
-||tikipeter.github.io^
 ||tiktok.com/i18n/pixel
 ||tiktok-platform-lb-maliva.byteoversea.net^
 ||tiktok-platform-lb-maliva.us-east.byteglb.com^
@@ -14020,7 +14006,6 @@ voiceid*.amazonaws.$all
 ||voterfactory.com^
 ||voterrecords.com^
 ||voxmedia.com^
-||voxmedia.github.io^
 ||vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com^
 ||vq1qi.pw^
 ||vsee.me/*/logs
