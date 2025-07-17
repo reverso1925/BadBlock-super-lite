@@ -5584,7 +5584,6 @@ diagtelemetry.trafficmanager.net
 ||discord.com/*/harvest
 ||discord.com/*/outbound-promotions
 ||discord.com/*/premium-marketing
-||discord.com/*/quests
 ||discord.com/*/science
 ||discord.com/*/sentry
 ||discord.com/*/survey
