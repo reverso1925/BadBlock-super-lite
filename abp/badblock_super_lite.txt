@@ -1,8 +1,8 @@
-! Title: ⚡️ BadBlock Lite (ABP)
+! Title: ⚡️ BadBlock Super Lite (ABP)
 ! Version: 12July2025v1
 ! Expires: 12 hours
-! Description: BadBlock, but slimmer!
-! Homepage: https://badblock.celenity.dev
+! Description: BadBlock, but very slimmer!
+! Original homepage: https://badblock.celenity.dev
 
 *^$header=content-type:application/csp-report,important
 *$ping,important
@@ -247,7 +247,6 @@
 ||ada.cx^
 ||adalytics.io^
 ||adamantsnail.com^
-||adanalytics.spotify.com^
 ||adapex.io^
 ||adaptmx.com^
 ||adap.tv^
@@ -3038,7 +3037,6 @@ analytics*.google.com^$important
 ||analytics.snssdk.com.bytedns1.com^
 ||analytics.snssdk.com.gtm.byte008.com^
 ||analytics.sport.es^
-||analytics.spotify.com^
 ||analytics-stage.ff.avast.com^
 ||analytics-stage-gcp.ff.avast.com^
 ||analytics-static.ugc.bazaarvoice.com^
@@ -4420,7 +4418,6 @@ byteplus.byteintl.net
 ||cdn-nexus.dell.com.edgekey.net^
 ||cdn-nexus.dell.com.edgekey.net.globalredir.akadns.net^
 ||cdn.pdst.fm^
-||cdn-spotify-experiments.b-cdn.net^
 ||cdn.transifex.com^
 ||cdntrf.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
@@ -5892,8 +5889,6 @@ dynamodb-kai*.amazonaws.$all
 ||edgetrksvc.ebay.pl^
 ||edgetrksvc.g.ebay.com^
 ||edgetrksvc.vip.qa.ebay.com^
-||edge-web-guc3.dual-gslb.spotify.com^
-||edge-web-gue1.dual-gslb.spotify.com^
 ||edgewelcome*.azurewebsites.net^
 ||edgewelcomecdn.microsoft.com^
 ||edgewelcome.trafficmanager.net^
@@ -7463,11 +7458,7 @@ googlesuggest.$all
 ||guardianapis.com/banner
 ||guardianapps.co.uk/geolocation
 ||guardian.github.io^
--guc3.dual-gslb.spotify.com
-||guc3-spclient.spotify.com^
 ||guce.advertising.com^$important
--gue1.dual-gslb.spotify.com
-||gue1-spclient.spotify.com^
 ||guidecent.com^
 ||guiltlessbasketball.com^
 guim.co.uk$removeparam=rum
@@ -11202,8 +11193,6 @@ pipes*.amazonaws.$all
 ||pixel.facebook.com^
 /pixel.js
 pixels*.amazonaws.com
-||pixel.spotify.com^
-||pixels.spotify.com^
 ||pixel-sync.trafficmanager.net^
 ||pixel.wp.com^
 ||pixelyoursite.com^
