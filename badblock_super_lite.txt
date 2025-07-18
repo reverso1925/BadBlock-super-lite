@@ -3011,7 +3011,6 @@ analytics*.google.com^$important
 ||analytics.noticiasdealava.eus^
 ||analytics.noticiasdegipuzkoa.eus^
 ||analytics.noticiasdenavarra.com^
-||analytics.pinterest.com^
 ||analytics.plaid.com^
 ||analytics.plex.tv^
 ||analytics.pnc.com^
@@ -9094,7 +9093,6 @@ logging*.cloudapp.azure.com
 ||log.olark.com^
 ||log-phx.tiktokv.com^
 ||log-phx.tiktokv.com.edgekey.net^
-||log.pinterest.com^
 ||logrocket-assets.io^
 ||logrocket.com^
 ||log-ru.tiktokv.com^
