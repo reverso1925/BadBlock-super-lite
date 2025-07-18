@@ -5223,7 +5223,6 @@ crashlytics.$all
 ||cstat-lb.apple.com.akadns.net^
 ||cstat-origin.apple.com^
 ||ctnsnet.com^
-||ct.pinterest.com^
 ||cuba7tilt.com^
 ||cubchannel.com^
 ||cuddlycake.com^
@@ -11089,7 +11088,6 @@ ping*.amazonaws.$all
 ||ping.s3.amazonaws.com^
 ||ping.typekit.net^
 ||ping.typekit.net-v2.edgekey.net^
-||pinimg.com^$third-party,domain=~pinterest.com
 ||pinpoint.espn.com^
 ||pinpoint-latency.geo.hosted.espn.com^
 ||pin-river.data.ea.com^
@@ -13552,7 +13550,6 @@ trends.google.$all
 ||trkn.us^
 ||trk.opentable.com^
 ||trk.opentable.com.messagegears.net^
-||trk.pinterest.com^
 ||trk.register.it^
 ||tr.line.me^
 ||tr.line.me^$important
@@ -14138,7 +14135,6 @@ watson.trafficmanager.net
 ||widgetcdn.azureedge.net^
 ||widgetservice.azurefd.net^
 ||widgets.getpocket.com^
-||widgets.pinterest.com^
 ||widget.trustpilot.com^
 ||wifidelta.com^
 ||wikipedia.org/w/api.php?action=opensearch
