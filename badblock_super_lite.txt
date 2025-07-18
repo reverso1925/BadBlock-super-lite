@@ -4420,10 +4420,6 @@ byteplus.byteintl.net
 ||ce.*.amazonaws.
 ||ce.*.amazonaws.$all
 ||ce.cn-northwest-1.amazonaws.com.cn^
-||cedexis.com^
-||cedexis.net^$third-party
-||cedexis-test.akamaized.net^
-||cedexis-test.com^
 ||celestialeuphony.com^
 ||celestialquasar.com^
 ||celestialspectra.com^
