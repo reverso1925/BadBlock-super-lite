@@ -1606,7 +1606,6 @@ adsextramileage.$all
 ||ads-ie.tiktokw.eu^
 ||ads-ie.tiktokw.eu.edgesuite.net^
 ||ads-ie.tiktokw.eu.ttdns3.com^
-||ads-img.mozilla.org^
 ads-in-action.
 adsinaction.
 ads-in-action.$all
@@ -3830,7 +3829,6 @@ aws-partner-central*.amazonaws.$all
 ||awzbijw.com^
 ||axelspringer.com^
 ||axept.io^
-||axeptio.imgix.net^
 ||axiomaticalley.com^
 ||axistel.biz^
 ||axon.com^
@@ -3889,7 +3887,6 @@ backtrace-forwarder*.amazonaws.com
 ||badlogit*.intuit.com^
 ||badlogit-us-west-2.prd.api.a.intuit.com^
 ||bagbeam.com^
-||bag-smoot.v.aaplimg.com^
 ||baidu.com/su
 ||bait4role.com^
 ||baixaki.com.br^
@@ -3989,7 +3986,6 @@ backtrace-forwarder*.amazonaws.com
 ||beta.apple.com^
 ||beta.partners.adsterra.com^$important
 ||beta.publishers.adsterra.com^$important
-||beta.v.aaplimg.com^
 ||betrad.com^
 ||betterstack.com^
 ||betteruptime.com^
@@ -4150,7 +4146,6 @@ bingstats*.trafficmanager.net
 ||bownow.jp^
 ||boxever.com^
 ||bpapi.apple.com^
-||bpapi.v.aaplimg.com^
 /bquery.js$script
 ||brainybasin.com^
 ||brainynut.com^
@@ -4174,7 +4169,6 @@ bingstats*.trafficmanager.net
 ||braze.eu^
 ||braze.eu^$important
 ||braze-images.com^
-||braze.imgix.net^
 /BrazeMessaging
 /braze.min.js
 ||breadbalance.com^
@@ -4411,8 +4405,6 @@ byteplus.byteintl.net
 ||cdn.pdst.fm^
 ||cdn.transifex.com^
 ||cdntrf.com^
-||cdn-xp-ingest-ab.v.aaplimg.com^
-||cdn-xp-ingest-ab.v.aaplimg.com^$important
 ||cdn-xp-ingest.edge.apple^
 ||cdn-xp-ingest.edge.apple^$important
 ||cdpbeacon.lgtvcommon.com^
@@ -5215,7 +5207,6 @@ crashlytics.$all
 ||cstat.apple.com^
 ||cstat.apple.com.edgesuite.net^
 ||cstat.cdn-apple.com^
-||cstat.g.aaplimg.com^
 ||cstat.g.apple.com^
 ||cstat-lb.apple.com.akadns.net^
 ||cstat-origin.apple.com^
@@ -5523,7 +5514,6 @@ datadoghq.com
 ||dfw2-128-116-95-3.roblox.com^
 ||diagassets.apple.com^
 ||diagassets*.apple.com.akadns.net^
-||diagassets.g.aaplimg.com^
 ||diagassets-lb.apple.com.akadns.net^
 ||diagnostic*.
 ||diagnostic.
@@ -5589,7 +5579,6 @@ discover-pa.googleapis.com
 ||discovery.addons.mozilla.org^
 ||discoveryengine.googleapis.com^
 ||discreetfield.com^
-||discuz.gtimg.cn^
 /discuz_tips.js
 ||display-ad-rgt0me85.kgslb.com^
 ||displayads-formats.googleusercontent.com^
@@ -5720,7 +5709,6 @@ doubleclick-net.l.google.com
 ||drift.app.auth0.com^
 ||drift.com^
 ||driftt.com^
-||driftt.imgix.net^
 ||drip.com^
 ||driveactivity.googleapis.com^
 ||driveniq.com^
@@ -6254,7 +6242,6 @@ extreme-ip-lookup-com.eu
 ||faultycanvas.com^
 ||faxvin.com^
 ||fba.apple.com^
-||fba.v.aaplimg.com^
 /fbevents.js
 /fbevents.js$script
 ||fbot.me^
@@ -7426,7 +7413,6 @@ googlesuggest.$all
 /gtag/
 ||gtaggingservice.alliedpilots.org^
 /gtag.js
-||gtlyimg.co^
 ||gtm.$all,domain=~gtm.www.chase.com.akadns.net|~gtm.secure.chase.com.akadns.net|~gtm.iddg.io
 ||gtm.$denyallow=gtm.www.chase.com.akadns.net|gtm.secure.chase.com.akadns.net|gtm.iddg.io
 /gtm4wp-form-move-tracker
@@ -7457,8 +7443,6 @@ guim.co.uk$removeparam=rum
 ||gustygrandmother.com^
 ||guzzoni.apple.com^
 ||guzzoni-apple.com.akadns.net^
-||guzzoni-apple-com-edge.v.aaplimg.com^
-||guzzoni-apple-com.v.aaplimg.com^
 ||gvt2-cn.com^
 ||gvt2.com^
 ||gvt3.com^
@@ -8009,7 +7993,6 @@ id5-sync.com
 ||idtid.com^
 ||idtrue.com^
 ||id-visitors.com^
-||idv-signals-pommery-prod.v.aaplimg.com^
 ||ie-odc.gw.samsungapps.com^
 ||ie-odc.samsungapps.com^
 ||ifconfig.rest^
@@ -8031,7 +8014,6 @@ id5-sync.com
 ||image.email.pamperedchef.com^
 ||image-line.com^
 ||images-mercury.mzstatic.com^
-||images-mercury.v.aaplimg.com^
 ||images.s4.exacttarget.com^
 ||images.s4.exacttarget.com.edgesuite.net^
 ||imasdk.googleapis.com^
@@ -8039,8 +8021,6 @@ id5-sync.com
 ||imds-api.com^
 ||imds-cdn.com^
 ||imds.tv^
-||imgburn.com^
-||imgpop.googlecode.com^
 ||immensehoney.com^
 ||impactcdn.com^
 ||impact.com^
@@ -8300,7 +8280,6 @@ iottwinmaker*.amazonaws.$all
 ||iphonesubmissions.apple.com^
 ||iphonesubmissions.apple.com.akadns.net^
 ||iphonesubmissions-old.apple.com^
-||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
 ||ipinfo.app^
 ||ipinfo.io^
@@ -8839,7 +8818,6 @@ lcdnreg.isu.apple.com.akadns.net
 ||lightning.cnn.com^$important
 ||lightning.warnermediacdn.com^
 ||lijit.com^
-||likemore-go.imgsmail.ru^
 ||likeshop.me^
 ||limelightaffiliates.com^
 ||limespot.com^
@@ -9889,7 +9867,6 @@ merkle*.azurefd.net^
 ||mightyspiders.com^
 ||mi.kohls.com^
 ||mile0tire.com^
-||m-img.org^
 ||mimosamajor.com^
 ||mindjolt-a.akamaihd.net^
 ||mindworks-creative.com^
@@ -10739,7 +10716,6 @@ openverse.org##+js(set-local-storage-item, plausible_ignore, true)
 ||ortto.com^
 ||osano.com^
 ||osc-collector-lb-931361364.us-west-2.elb.amazonaws.com^
-||osimg.nbcuni.com^
 ||os-mon.snssdk.com^
 ||os-mon.snssdk.com.bytedns1.com^
 ||os-mon.snssdk.com.queniusz.com^
@@ -10755,7 +10731,6 @@ openverse.org##+js(set-local-storage-item, plausible_ignore, true)
 ||ours3care.com^
 ||our-trace.com^
 ||outbrain.com^
-||outbrainimg.com^
 ||outbrain.org^
 ||outlookdiagnostics.azureedge.net^
 ||outlookdiagnostics.ec.azureedge.net^
@@ -10833,7 +10808,6 @@ openverse.org##+js(set-local-storage-item, plausible_ignore, true)
 ||pancake.apple.com^
 ||pancake.apple.com.edgekey.net^
 ||pancake.cdn-apple.com.akadns.net^
-||pancake.g.aaplimg.com^
 ||pandectes.io^
 ||panelresearch.google.com^
 ||pangle-ads.com^
@@ -11357,11 +11331,6 @@ pogo.com##.topAdHolder__2E0ls
 ||prod-chatwoot-assets.s3.amazonaws.com^
 ||prod-consentcdneu.b-cdn.net^
 ||prod-consenteu.b-cdn.net^
-||prod-event-relay-books-api.v.aaplimg.com^
-||prod-event-relay-notes-api.v.aaplimg.com^
-||prod-event-relay-sports-api.v.aaplimg.com^
-||prod-event-relay-stocks-api.v.aaplimg.com^
-||prod-event-relay-weather-api.v.aaplimg.com^
 ||prod-heap-inc.netlifyglobalcdn.com^
 ||prodima.vn^
 ||prod-knoxlog.secb2b.com^
@@ -11507,7 +11476,6 @@ pulsar-pweb*.amazonaws.com
 ||pusher-website.cdn.prismic.io^
 ||pusher-website.prismic.io^
 ||pushflow.net^
-||pushimg.com^
 ||pushmessage.samsung.com^
 ||pushnami.com^
 ||pushowl.com^
@@ -11594,7 +11562,6 @@ quicksight*.amazonaws.$all
 ||raab3frog.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
-||radar.imgsmail.ru^
 ||radaris.asia^
 ||radarisaustralia.com^
 ||radaris.com^
@@ -12224,10 +12191,8 @@ search.brave.com##+js(set-local-storage-item, app.usageMetricsOptOut, true)
 ||securemetrics.$all
 ||securemetrics.apple.com^
 ||securemetrics.apple.com.cn^
-||securemetrics.v.aaplimg.com^
 ||securemvt.apple.com^
 ||securemvt.apple.com.cn^
-||securemvt.v.aaplimg.com^
 ||secureprivacy.ai^
 ||secure-privacy.cdn.prismic.io^
 ||securepubads.g.doubleclick.net^$important
@@ -12239,7 +12204,6 @@ search.brave.com##+js(set-local-storage-item, app.usageMetricsOptOut, true)
 ||secuvy.ai^
 ||sedoparking.com^
 ||seedscissors.com^
-||seed-siri-apple-com.v.aaplimg.com^
 ||seedtag.com^
 ||seeip.org^
 ||seeip.org^$important
@@ -12379,7 +12343,6 @@ send.vis.ee##+js(set-local-storage-item, ab_experiments, '')
 ||share.microsoft.com^
 ||share.microsoft.com.edgekey.net^
 ||sharethis.com^
-||sharethis.imgix.net^
 ||sharethis.net^
 ||sharethrough.com^
 ||sheargovernor.com^
@@ -12435,7 +12398,6 @@ send.vis.ee##+js(set-local-storage-item, ab_experiments, '')
 ||sirdata.com^
 ||sirdata.io^
 ||siri.apple.com^
-siri-apple-com.v.aaplimg.com
 ||siriusxmmedia.com^
 ||sitecheck2.opera.com^
 ||sitecheck*.opera.com^
@@ -12539,17 +12501,11 @@ siri-apple-com.v.aaplimg.com
 ||smoggysongs.com^
 ||smoggystation.com^
 ||smooch.io^
-||smoot-api-glb.v.aaplimg.com^
 ||smoot.apple.cn^
 ||smoot.apple.com^
 smoot.apple.com
 ||smoot-apple.com.akadns.net^
 ||smoot.apple.com.cn^
-||smoot-feedback.v.aaplimg.com^
-||smoot.g.aaplimg.com^
-||smoot-searchv2-ause1c.v.aaplimg.com^
-||smoot.v.aaplimg.com^
-smoot.v.aaplimg.com
 ||smy.iheart.com^
 ||smytp.com^
 ||snakemineral.com^
@@ -12988,7 +12944,6 @@ substack.com###nojs-banner
 ||supportmetrics.$all
 ||supportmetrics.apple.com^
 ||supportmetrics-uat.apple.com^
-||supportmetrics.v.aaplimg.com^
 ||support.theguardian.com^
 ||survey.aa.com^
 ||survey.apple.com^
@@ -13062,7 +13017,6 @@ surveymonkey.$all
 ||sw88.go.com^
 /swa-di.js
 ||swallow.apple.com^
-||swallow-apple-com.v.aaplimg.com^
 ||swat8toot.com^
 ||swellstocking.com^
 ||swiss-casino-online.com^
@@ -13085,7 +13039,6 @@ surveymonkey.$all
 ||syndication.exosrv.com^$important
 ||syndication.realsrv.com^$important
 ||syndication.theguardian.com^
-||syndication.twimg.com^
 ||syndication.twitter.com^
 ||syndication.x.com^
 ||synology.me^
@@ -13224,7 +13177,6 @@ targeting*.oath.cloud
 ||tbm.snssdk.com.queniukw.com^
 ||tbm.snssdk.com.w.cdngslb.com^
 ||tcaxp.com^
-||t.co^$third-party,domain=~x.com|~twitter.com|~twimg.com|~pscp.tv|~cms-twdigitalassets.com
 ||tctm.co^
 ||tdzvm.pw^
 ||teads.com^
@@ -13894,7 +13846,6 @@ unagi.amazon.$all
 ||vericora.com^
 ||veriforia.com^
 ||verint.com^
-||verint.imgix.net^
 -verint.pantheonsite.io
 ||veripages.com^
 ||verisk.com^
@@ -14315,8 +14266,6 @@ xray*.amazonaws.$all
 ||xy.fbcdn.net^
 ||xz.fbcdn.net^
 ||yadro.ru^
-||yads.c.yimg.jp^
-yads*.yimg.jp$important
 ||yama1hove.com^
 ||yami8alea.com^
 ||yandexadexchange.net^
@@ -14395,7 +14344,6 @@ yieldmo*.amazonaws.com
 ||yp.com^
 ||ypdstrck.com^
 ||ypstate.com^
-||ytimg.com/generate_204
 ||yy45.site^
 ||yza1rz5q36gm8vot.s3.amazonaws.com^
 ||zabasearch.com^
