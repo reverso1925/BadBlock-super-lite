@@ -1655,7 +1655,6 @@ adspeakperformance.$all
 ||adspeed.com^
 ||adspeed.net^
 ||adspeed.net^$important
-||ads.pinterest.com^
 ||ads-pixiv.net^
 ||ads.prod.webservices.mozgcp.net^
 ||adspruce.com^
