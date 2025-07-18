@@ -14469,4 +14469,4 @@ top.gg##.chakra-stack.css-tl3ftk > div.css-1h2g9d9:nth-of-type(2)
 ||ct.pinterest.com^
 ||ads.pinterest.com^
 ||ads.pinterest.com^$important
-||analytics.pinterest.com^
+||log.pinterest.com^
