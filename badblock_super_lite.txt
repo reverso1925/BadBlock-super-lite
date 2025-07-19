@@ -12897,8 +12897,6 @@ substack.com###nojs-banner
 ||suggestplugin.gmx.es^
 ||suggestplugin.gmx.fr^
 ||suggestplugin.ui-portal.de^
-||suggestqueries-clients6.youtube.com^
-||suggestqueries.google.com^
 ||suggestqueries.l.google.com^
 ||suggest.search.daum.net^
 ||suggest.seznam.cz^
