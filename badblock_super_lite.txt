@@ -14053,3 +14053,4 @@ top.gg##.chakra-stack.css-tl3ftk > div.css-1h2g9d9:nth-of-type(1)
 top.gg##.chakra-stack.css-tl3ftk > div.css-1h2g9d9:nth-of-type(2)
 loritta.website##.odd-wrapper > div:nth-of-type(5) > fieldset
 abfielder.com###adblock-modal
+abfielder.com##div.container.mt-3:nth-of-type(4) > .card.mt-3.border-0.shadow-sm > .card-body.p-3
