@@ -4392,7 +4392,6 @@ byteplus.byteintl.net
 ||cdn-cookieyes.com^
 ||cdn-csp.walmart.com.akadns.net^
 ||cdndex.io^
-||cdn.embedly.com/widgets/$3p,frame,redirect=click2load.html
 ||cdnma.com^
 ||cdn-net.com^
 ||cdn-net.com^$important
@@ -4959,7 +4958,6 @@ compute-optimizer*.amazonaws.$all
 ||consent.config.office.com^
 ||consentdeliveryfd.azurefd.net^
 ||consentdesk.com^
-||consentframework.com^
 ||consent.ghostery.com^
 ||consentmanager.net^
 ||consentmo.com^
@@ -6066,7 +6064,6 @@ events*.amazonaws.$all
 ||events-fips.us-east-2.amazonaws.com^
 ||events-fips.us-west-1.amazonaws.com^
 ||events-fips.us-west-2.amazonaws.com^
-||events.framer.com^
 ||events.getpostman.com^
 ||events.gfe.nvidia.com^
 ||events.il-central-1.amazonaws.com^
@@ -6200,7 +6197,6 @@ extreme-ip-lookup-com.eu
 ||fairiesbranch.com^
 ||fakeidvendors.com^
 ||fallaciousfifth.com^
-||falseframe.com^
 ||fama.io^
 ||famebit.com^
 ||fam-geo-atsv2.prod.media.g03.yahoodns.net^
@@ -6668,7 +6664,6 @@ forum.wii-homebrew.com##.warning
 ||futuristicapparatus.com^
 ||futuristicfairies.com^
 ||futuristicfifth.com^
-||futuristicframe.com^
 ||futy.io^
 ||futy-io.netlify.app^
 ||futy-io.prismic.io^
@@ -7433,7 +7428,6 @@ guim.co.uk$removeparam=rum
 ||guim.co.uk/assets/StickyBottomBanner
 ||guim.co.uk/assets/TopBar
 ||guim.co.uk/commercial
-||guim.co.uk/libs/iframe-messenger
 ||gumgum.com^
 ||gustygrandmother.com^
 ||guzzoni.apple.com^
@@ -7991,8 +7985,6 @@ id5-sync.com
 ||ie-odc.gw.samsungapps.com^
 ||ie-odc.samsungapps.com^
 ||ifconfig.rest^
-||iframe.ly^
-||iframely.com^
 ||igc-browse.rnps.dl.playstation.net^
 ||ihars.com^
 ||ihsmarkit.com^
