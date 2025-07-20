@@ -13,7 +13,6 @@
 ||0.gravatar.com^
 ||0i0i0i0.com^
 ||0o0o.io^
-||127.0.0.1^$domain=discord.com
 ||192.com^
 ||1and1.com^
 ||1-cl0ud.com^
@@ -5551,8 +5550,6 @@ diagtelemetry.trafficmanager.net
 ||direfuldesk.com^
 ||disc*.do.dsp.mp.microsoft.com^
 ||disconetwork.com^
-||discordapp.com^$third-party,domain=~discord.com|~discordapp.net|~dis.gd|~discord.gift|~discord.media|~discord.gg|~discord.app|~discordstatus.com
-||discord.com^$third-party,domain=~discordapp.com|~discordapp.net|~dis.gd|~discord.gift|~discord.media|~discord.gg|~discord.app|~discordstatus.com
 ||discord.com/*/build_overrides
 ||discord.com/*/collectibles-marketing
 ||discord.com/*/consent
@@ -12085,7 +12082,6 @@ sagemaker*.amazonaws.$all
 ||scarfsmash.com^
 ||scatteredheat.com^
 ||scatteredstream.com^
-||scdn.co^$domain=discord.com
 /scevent.min.js
 ||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^
 ||scientificshirt.com^
