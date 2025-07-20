@@ -4605,8 +4605,6 @@ clientgear-com.*.aliyuncs.com
 ||clouderrorreporting.googleapis.com^
 ||cloudflare.com/ajax/libs/cookieconsent
 ||cloudflare.com/sentry
-||cloudflareinsights.com^
-||cloudflareinsights.com^$important
 ||cloudfront-labs.amazonaws.com^
 ||cloud.google.com/log$important
 ||cloud.google.com/*/ping$important
